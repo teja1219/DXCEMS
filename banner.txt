@@ -1,1 +1,2 @@
 this is banner for complete text
+we have to add colors for banner of my page
